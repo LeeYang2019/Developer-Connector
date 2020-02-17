@@ -11,6 +11,7 @@ const Login = ({ login }) => {
   });
 
   const { email, password } = formData;
+
   const onChange = e =>
     setFormData({ ...formData, [e.target.name]: e.target.value });
 
@@ -33,7 +34,6 @@ const Login = ({ login }) => {
             name="email"
             value={email}
             onChange={e => onChange(e)}
-            required
           />
         </div>
         <div className="form-group">
@@ -43,7 +43,6 @@ const Login = ({ login }) => {
             name="password"
             value={password}
             onChange={e => onChange(e)}
-            minLength="6"
           />
         </div>
 
