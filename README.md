@@ -5,10 +5,10 @@ A Udemy Course Web App in React and Nodejs
 
 The following are experiences I learned from the project:
 
-		Developed and ran multi-class JavaScript programs.
+		Gained experience coding in React and Nodejs
 		Used command-line arguments. 
 		Gained experience using React/Redux libraries
-		Worked with a no-relationship db such as MongoDB
+		Worked with a no-relational db in MongoDB
 		Deployed web application to Heroku
     
 <Strong>Description</Strong>
