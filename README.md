@@ -14,3 +14,11 @@ The following are experiences I learned from the project:
 <Strong>Description</Strong>
 
 I created a web application connecting web developers with one another. The application allows web developers to view other developer profiles, register and create individual accounts, and create and post comments.
+
+Much thanks go to Brad Traversy for the tutorial, which I purchased on Udemy.
+
+# Link to deployed application
+
+Link: https://afternoon-forest-77047.herokuapp.com/
+
+# Screenshots of application
