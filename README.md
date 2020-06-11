@@ -22,3 +22,6 @@ Much thanks go to Brad Traversy for the tutorial, which I purchased on Udemy.
 Link: https://afternoon-forest-77047.herokuapp.com/
 
 # Screenshots of application
+
+![Screen Shot 2020-06-11 at 2 29 03 PM](https://user-images.githubusercontent.com/46943342/84425689-fdb12580-abef-11ea-968a-ea5a61cf5994.png)
+
