@@ -17,6 +17,8 @@ I created a web application connecting web developers with one another. The appl
 
 Much thanks go to Brad Traversy for the tutorial, which I purchased on Udemy.
 
+Tech: React, Nodejs, Express, Mongoose, MongoDB, Heroku
+
 # Link to deployed application
 
 Link: https://afternoon-forest-77047.herokuapp.com/
